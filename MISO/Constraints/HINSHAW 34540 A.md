@@ -1,0 +1,62 @@
+### HINSHAW 34540 A
+### Basic Facts
+- Monitored Element: HINSHAW 34540 A
+	- A.K.A. HINSHAW-BURR_OAK
+	- 345 kV line
+- [[MISO]]
+	- NIPS, NIPS
+- For loss of WILTON CENTER-DUMONT 765 (11215)
+	- 745 kV line
+- Direction: forward
+- Constraint ID: 449924
+- June, 2024 History
+	- Bound 18% of Peak hours in DAM
+	- Bound 56% of Off-peak hours in DAM
+### Drivers
+- HINSHAW-BURR_OAK is a new 345 kV line
+	- Hinshaw is a new substation as of 5/2/2024
+	- HINSHAW-BURR_OAK and BURR_OAK-SCHAHFER are double-modeled
+- BURR_OAK-SCHAHFER 345 kV line retirement
+	- 5/2/2024
+- STILLWELL_BABCOCK 345 kV line outage
+	- 5/20/2024-12/31/2024
+- FLINT_LK-LUCHTMAN 138 kV line outage
+	- 5/20/2024-6/27/2024
+- DUNEACRE-MICHCITY 138 kV line outages
+	 - Parallel lines -- two 138 kV lines
+	 - Both out 5/20/2024-6/27/2024
+- Off-peak flows from excess ComEd and MISO CAZ 2 supply (baseload generation)
+	- Braidwood
+		- Nuclear
+		- 2.4 GW
+		- ComEd
+	- LaSalle
+		- Nuclear
+		- 2.3 GW
+		- ComEd
+	- Dresden
+		- Nuclear
+		- 2 GW
+		- ComEd
+	- Quad Cities
+		- Nuclear
+		- 2 GW
+		- ComEd
+	- Byron
+		- Nuclear
+		- 2.4 GW
+		- ComEd
+	- Point Beach
+		- Nuclear
+		- 1.3 GW
+		- MISO CAZ 2
+	- Elm Road
+		- Coal
+		- 1.4 GW
+		- Two units
+		- MISO CAZ 2
+### Forward View
+Constraint to bind in July, primarily in Off-peak hours, but less often/severe as in June.
+- HINSHAW-BURR_OAK is retired
+- Baseload generators on the low side of the constraint do not have any scheduled maintenance
+- FLINT_LK-LUCHTMAN, DUNEACRE-MICHCITY have returned to service

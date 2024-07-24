@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "e3aafac7c0d89005",
+    "type": "split",
+    "children": [
+      {
+        "id": "83cf28fb86fc0232",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86699915eefe0193",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Generic Mapping Problem/Bus-Branch Model Implementation Sketch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3bc04c54442f1efc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Generic Mapping Problem/Generic Mapping Problem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c26dfd6d3c5d1b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "680066eca754de41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdc4b0a70e54db9e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f3c49a097001fb56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e1f6dccb88aad2e3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 331.5
+  },
+  "right": {
+    "id": "2cc5c28298557690",
+    "type": "split",
+    "children": [
+      {
+        "id": "221c0e5520fc7ce9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ba9f3403735283b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Generic Mapping Problem/Bus-Branch Model Implementation Sketch.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e2caf693cdff7fc2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Generic Mapping Problem/Bus-Branch Model Implementation Sketch.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f2838e33482bd6a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9fdb5c3668b7d1e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Generic Mapping Problem/Bus-Branch Model Implementation Sketch.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "86699915eefe0193",
+  "lastOpenFiles": [
+    "Generic Mapping Problem/Bus-Branch Model.md",
+    "Generic Mapping Problem/Node-Breaker Model Implementation Sketch.md",
+    "Generic Mapping Problem/Network Models.md",
+    "Generic Mapping Problem/Node-Breaker PSSE example.png",
+    "Generic Mapping Problem/Node-Breaker Model.md",
+    "Generic Mapping Problem/Network Topology Processing.png",
+    "Generic Mapping Problem/Node-Breaker Model.png",
+    "Generic Mapping Problem/Bus-Branch Model Implementation Sketch.md",
+    "Generic Mapping Problem/Generic Mapping Problem.md",
+    "Generic Mapping Problem/Untitled",
+    "Portfolio Optimization/Conditional Value-at-Risk (CVaR).md",
+    "Generic Mapping Problem/Bus-Branch Model.png",
+    "Pasted image 20240722144633.png",
+    "Eastern Interconnection.md",
+    "Generic Mapping Problem",
+    "PJM/Plants/Chalk Point/Chalk Point.md",
+    "Portfolio Optimization/Optimization of Conditional Value-at-Risk.pdf",
+    "PJM/COMED.md",
+    "PJM/PJM.md",
+    "MISO/MISO.md",
+    "MISO/MISO Congestion Drivers.md",
+    "MISO/DERs.pdf.pdf",
+    "PJM/AD Hub/PJM AD Hub.md",
+    "Portfolio Optimization/bv_cvxbook.pdf",
+    "Portfolio Optimization/bv_cvxbook.pdf.crdownload",
+    "PJM/Western Hub/PJM Western Hub.md",
+    "PJM/~$lmp-hub-definitions.tmp",
+    "Maps/PJM/PJM Zones Map.png",
+    "PJM/AD Hub/PJM AD Hub Pnodes.png",
+    "PJM/AD Hub",
+    "PJM/Western Hub/PJM Western Hub Pnodes.png",
+    "Pasted image 20240712104046.png",
+    "Fundamental Definitions for FTRs/FTR Funding.md",
+    "MISO/Constraints/SWAN_WILMA11_1 1 FLO HAWKNLYONC34_1 1.md",
+    "MISO/Constraints/JOHNJCT 115KV - MORRISOT 115KV (JOHNJMORRI11_1 1).md",
+    "MISO/Constraints/MAPLE MAPLE08CHR13_1 1.md",
+    "PJM/Constraints vs. Load/MetEd load vs BGE load vs shadows Yorkana Conastone.png",
+    "PJM/Constraints vs. Load/Zonal RT Load vs. RT Constraints.md",
+    "PJM/Constraints vs. Load/METED_scatterplot.html",
+    "PJM/Constraints vs. Load/DOMINION_scatterplot.html",
+    "MISO/Constraints/WITHYLKJ WITHYTWINI13_1 1.md",
+    "MISO/Constraints/MONROE4 MONRONSTAR12_1 1.md",
+    "MISO/Constraints/HINSHAW 34540 A.md",
+    "Personal/Watches/Nomos Glashütte/Tangente.md",
+    "Personal/Watches/Nomos Glashütte/Tangomat.md"
+  ]
+}
