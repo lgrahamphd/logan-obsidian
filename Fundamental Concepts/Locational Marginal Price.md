@@ -1,0 +1,1 @@
+The locational marginal price (LMP) associated with a node represents the cost incurred, expressed in $/MWh, to supply the last incremental amount of energy at this node. It is the foundation of nodal pricing.

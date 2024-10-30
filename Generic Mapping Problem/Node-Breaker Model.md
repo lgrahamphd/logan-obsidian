@@ -10,3 +10,6 @@ A node-breaker model can be transformed into a bus-branch model through amalgama
 ![[Network Topology Processing.png]]
 
 ![[Node-Breaker PSSE example.png]]
+
+### NERC Workshop on Node-Breaker Modeling
+![[December 2016 - Node Breaker Model Representation Webinar.pdf]]

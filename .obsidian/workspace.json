@@ -4,34 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "83cf28fb86fc0232",
+        "id": "715b7c296b4624d7",
         "type": "tabs",
         "children": [
           {
-            "id": "86699915eefe0193",
+            "id": "406ebcba3c869029",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Generic Mapping Problem/Bus-Branch Model Implementation Sketch.md",
+                "file": "PJM/PJM.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "PJM"
             }
           },
           {
-            "id": "3bc04c54442f1efc",
+            "id": "214b1e3fee2ca6f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Generic Mapping Problem/Generic Mapping Problem.md",
+                "file": "MISO/MISO.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "MISO"
+            }
+          },
+          {
+            "id": "6a282bec6e10d51a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MISO/Constraint Analyses/Michigan - AD Hub Seam.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Michigan - AD Hub Seam"
+            }
+          },
+          {
+            "id": "c5b43c426a07ee9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PJM/AD Hub/PJM AD Hub.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PJM AD Hub"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -51,7 +84,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -66,7 +101,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -74,14 +111,17 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 375.5,
+    "collapsed": true
   },
   "right": {
     "id": "2cc5c28298557690",
@@ -97,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Generic Mapping Problem/Bus-Branch Model Implementation Sketch.md",
+                "file": "MISO/Plants/LRZ 4/Baldwin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +145,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Baldwin"
             }
           },
           {
@@ -114,10 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Generic Mapping Problem/Bus-Branch Model Implementation Sketch.md",
+                "file": "MISO/Plants/LRZ 4/Baldwin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Baldwin"
             }
           },
           {
@@ -128,7 +172,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -137,15 +183,18 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Generic Mapping Problem/Bus-Branch Model Implementation Sketch.md"
-              }
+                "file": "MISO/Plants/LRZ 4/Baldwin.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Baldwin"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -155,55 +204,57 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "86699915eefe0193",
+  "active": "6a282bec6e10d51a",
   "lastOpenFiles": [
-    "Generic Mapping Problem/Bus-Branch Model.md",
-    "Generic Mapping Problem/Node-Breaker Model Implementation Sketch.md",
-    "Generic Mapping Problem/Network Models.md",
-    "Generic Mapping Problem/Node-Breaker PSSE example.png",
-    "Generic Mapping Problem/Node-Breaker Model.md",
-    "Generic Mapping Problem/Network Topology Processing.png",
-    "Generic Mapping Problem/Node-Breaker Model.png",
-    "Generic Mapping Problem/Bus-Branch Model Implementation Sketch.md",
-    "Generic Mapping Problem/Generic Mapping Problem.md",
-    "Generic Mapping Problem/Untitled",
-    "Portfolio Optimization/Conditional Value-at-Risk (CVaR).md",
-    "Generic Mapping Problem/Bus-Branch Model.png",
-    "Pasted image 20240722144633.png",
-    "Eastern Interconnection.md",
-    "Generic Mapping Problem",
-    "PJM/Plants/Chalk Point/Chalk Point.md",
-    "Portfolio Optimization/Optimization of Conditional Value-at-Risk.pdf",
-    "PJM/COMED.md",
-    "PJM/PJM.md",
-    "MISO/MISO.md",
-    "MISO/MISO Congestion Drivers.md",
-    "MISO/DERs.pdf.pdf",
     "PJM/AD Hub/PJM AD Hub.md",
-    "Portfolio Optimization/bv_cvxbook.pdf",
-    "Portfolio Optimization/bv_cvxbook.pdf.crdownload",
-    "PJM/Western Hub/PJM Western Hub.md",
-    "PJM/~$lmp-hub-definitions.tmp",
-    "Maps/PJM/PJM Zones Map.png",
-    "PJM/AD Hub/PJM AD Hub Pnodes.png",
-    "PJM/AD Hub",
-    "PJM/Western Hub/PJM Western Hub Pnodes.png",
-    "Pasted image 20240712104046.png",
-    "Fundamental Definitions for FTRs/FTR Funding.md",
-    "MISO/Constraints/SWAN_WILMA11_1 1 FLO HAWKNLYONC34_1 1.md",
-    "MISO/Constraints/JOHNJCT 115KV - MORRISOT 115KV (JOHNJMORRI11_1 1).md",
-    "MISO/Constraints/MAPLE MAPLE08CHR13_1 1.md",
-    "PJM/Constraints vs. Load/MetEd load vs BGE load vs shadows Yorkana Conastone.png",
-    "PJM/Constraints vs. Load/Zonal RT Load vs. RT Constraints.md",
-    "PJM/Constraints vs. Load/METED_scatterplot.html",
-    "PJM/Constraints vs. Load/DOMINION_scatterplot.html",
-    "MISO/Constraints/WITHYLKJ WITHYTWINI13_1 1.md",
-    "MISO/Constraints/MONROE4 MONRONSTAR12_1 1.md",
-    "MISO/Constraints/HINSHAW 34540 A.md",
-    "Personal/Watches/Nomos Glashütte/Tangente.md",
-    "Personal/Watches/Nomos Glashütte/Tangomat.md"
+    "MISO/Constraint Analyses/Michigan - AD Hub Seam.md",
+    "PJM/PJM.md",
+    "Probe/Zonal Factors.md",
+    "MISO/MISO.md",
+    "MISO/Constraint Analyses/Miscellaneous Constraints/AURORA_BROOKNG A FLO WHITE-SPLIT ROCK_345.md",
+    "MISO/Constraint Analyses/September, 2024/Tuesday, September 17, 2024.md",
+    "MISO/Constraint Analyses/Miscellaneous Constraints/GRANIBLAIR23_1 1 FLO APPLDWATER23_1 1.md",
+    "MISO/Constraint Analyses/Misc Constraints",
+    "MISO/Virtuals/MISO Virtuals.md",
+    "MISO/MISO LRZs.md",
+    "Personal/Academics/Dissertation.pdf",
+    "Personal/Academics/Dissertation.pdf.crdownload",
+    "Personal/Academics",
+    "Personal/New folder",
+    "Probe/Images/MTEP_18CHARGE.png",
+    "Probe/Images/IDC_18CHARGE.png",
+    "Probe/Images/EMS_18CHARGE.png",
+    "Probe/Images",
+    "Probe",
+    "MISO/Plants/LRZ 4/Baldwin.md",
+    "Emissions Programs/Cross-State Air Pollution Rule (CSAPR).md",
+    "MISO/Plants/LRZ 4/Prairie State.md",
+    "MISO/Plants/LRZ 4/Images/Prairie State.jpg",
+    "MISO/Plants/LRZ 4/Images/Prairie State.jpg.crdownload",
+    "MISO/Plants/LRZ 4/Images/Prairie State net capacity factor.png",
+    "MISO/Plants/LRZ 4/Images/Prairie State net capacity factor.png.crdownload",
+    "MISO/Plants/LRZ 5/Labadie.md",
+    "MISO/Plants/LRZ 4/Images/baldwin-power-plant-aerial.jpg",
+    "MISO/Plants/LRZ 4/Images/baldwin-power-plant-aerial.jpg.crdownload",
+    "MISO/Plants/LRZ 5/Mexico.md",
+    "MISO/Plants/LRZ 1/Clay Boswell.md",
+    "MISO/Plants/LRZ 1/Big Stone.md",
+    "MISO/Plants/LRZ 5/Pinckneyville.md",
+    "MISO/Constraint Analyses/November 2024 FTR Auction/Prest Road - Tibbs 138 kV FLO Aster - Commodore 345 kV.md",
+    "MISO/Plants/LRZ 5/High Prairie.md",
+    "MISO/Constraint Analyses/November 2024 FTR Auction/Jeff - Woody 161 kV FLO Maywood - Zachary 345 kV.md",
+    "MISO/Constraint Analyses/November 2024 FTR Auction/Raun - Tekamah 161 kV FLO Ft. Calhoun - Raun 345 kV.md",
+    "MISO/Constraint Analyses/Miscellaneous Constraints/SWAN_WILMA11_1 1 FLO HELENSHEAS34_1 1.md",
+    "MISO/Constraint Analyses/November 2024 FTR Auction/Blair - Granite Falls 230 kV FLO Appledorn - Watertown 230 kV.md",
+    "MISO/Constraint Analyses/November 2024 FTR Auction/Tekamah - Substation 1226 161 kV FLO Ft. Calhoun - Raun 345 kV.md",
+    "MISO/Constraint Analyses/November 2024 FTR Auction/Pleasant Lake - Leeds 115 kV FLO Balta - Ramsey 230 kV.md",
+    "MISO/Plants/LRZ 5/Rush Island SSR Costs.png",
+    "MISO/Plants/LRZ 5/Images/Callaway County.png",
+    "MISO/Plants/LRZ 5/Images/Taum Sauk.png",
+    "MISO/Plants/LRZ 5/Images/Osage.png"
   ]
 }

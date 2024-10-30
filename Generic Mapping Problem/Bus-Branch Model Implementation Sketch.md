@@ -40,9 +40,13 @@
 ---
 ### `Substation` class
 - dataclass
-- `CircuitBreakers` associated with the substation
+- `Breaker`s associated with the substation
 ##### Panorama Data
 - Station -- this is just a label
+---
+### `Breaker` class
+- dataclass
+##### PSSE Data
 ---
 ### `Line` class
 - dataclass
@@ -72,6 +76,13 @@
 ##### Panorama Data
 - Name
 - Bus ID
+- Generator ID
+- Prime Mover
+- NP Capacity MW
+- County
+- Start Date
+- End Date
+- Currently
 - Memo
 - Status
 - Fuel

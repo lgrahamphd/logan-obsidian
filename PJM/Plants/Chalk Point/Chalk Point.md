@@ -5,7 +5,7 @@
 **State**: Maryland
 **County**: Prince Georges
 **RGGI State**: Yes
-**CSAPR Group 3 NOx State**: Yes
+**CSAPR Group 3 NO$_x$ State**: Yes
 ##### Capacity-Weighted Averages Across Units
 **Fully Loaded [[Heat Rate]]**: 11.6 MMBtu/MWh
 **Average [[Heat Rate]]**: 12.8 MMBtu/MWh
