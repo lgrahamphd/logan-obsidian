@@ -1,0 +1,3 @@
+Jeff - Woody 161 kV could bind with Appanoose - Adair 161 kV out (while Ottumwa - Woody 161 kV is still in service) from 2025-04-07 - 2025-04-22. With that said, it seems likely that Irvine - Beacon 161 kV would bind first. This is particularly the case when Denmark - Henry County 161 kV is out 2025-04-14 - 2025-04-21, which is heavily bearish Jeff - Woody 161 kV.
+
+Jeff - Woody 161 kV has a reasonable likelihood to bind 2025-04-07 - 2025-04-13, though we are more bullish Irvine - Beacon 161 kV.

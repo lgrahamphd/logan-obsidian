@@ -1,0 +1,18 @@
+$("<i class='ion-android-arrow-down'></i>").insertAfter(".aeci-download p a");
+$(".aeci-download a").after(" ");
+
+
+
+
+$( document ).ready(function(){
+    var loc = $('#navLoc').val();
+    $('#universalNavLinks li a').each(function(){
+        var $this = $(this);
+        if ($this.attr('href') == loc) {
+            $this.addClass('aeciActiveNav');
+            var txt = $this.text();
+            var bulletedItem = '&bull; ' + txt;
+            $this.html(bulletedItem);
+        }
+    });
+});

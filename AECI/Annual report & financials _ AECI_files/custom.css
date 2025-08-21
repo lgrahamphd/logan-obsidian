@@ -1,0 +1,125 @@
+/* 1. AECI Footer Custom CSS */
+
+@media (min-width:0) and (max-width:767px) {
+    .aeci_tstoneLogo {
+        width: 60%;
+    }
+}
+
+@media (min-width:480px) and (max-width:767px) {
+    .aeci_tstoneLogo {
+        width: 40%;
+    }
+}
+
+@media (min-width:768px) {
+    .aeci_tstoneLogo {
+        width: 30%;
+    }
+}
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : portrait) { 
+
+	.navigation nav.main ul a {
+		height:60px;
+		padding:22px 9px !important;		
+	}		
+		
+	.navigation nav.main ul li.more-children {
+		display:none!important;
+	}
+}
+
+/* iPad sized device, horizontal rotation */
+@media (min-width:992px) {
+    .aeci_tstoneLogo {
+        width: 40%;
+    }
+	
+    .aeci_quick-links {		
+        padding-top: 80px;
+    }
+}	
+
+@media (min-width:1200px) {
+    .aeci_tstoneLogo {
+        width: 30%;
+    }
+	
+    .aeci_quick-links {		
+        padding-top: 48px;
+    }
+}
+/* 1. AECI Footer Custom CSS - END */
+
+.aeciActiveNav {    
+    font-weight: bolder;	
+}
+
+/*
+    AECI Green Scheme Colours
+	c1	#0b2418		11,36,24    [Dark Green]
+	c2	#158a58		18,138,88   [Light Green]
+    c3              8,62,40,1
+*/
+
+
+
+/* Begin - CSS for USN_SC_BiographyResourcesSection */
+.aeci-ceoResourceItem-spacer {
+    padding-top: 18px !important;
+    padding-bottom: 36px !important;
+}
+
+.aeci-resourceItem-spacer {
+    padding-top: 18px !important;
+}
+
+.aeci-bioResourceItem-Name {
+    font-weight: 600;
+}
+
+.aeci-businessCardEmailAddress {
+    margin-left: 40px;
+}
+
+.aeci-ceoRecourceItem-img {
+    padding-right: 12px !important;
+    padding-bottom: 6px !important;
+    max-width: 50%;
+}
+
+.aeci-bioRecourceItem-img {
+    padding-right: 12px !important;
+    padding-bottom: 6px !important;
+    max-width: 33%;
+}
+
+
+/* Start - CSS for USN_SC_TextImageWrapSection */
+
+.aeci-textWrapImageRight-img {
+	padding-left: 12px !important;
+    padding-bottom: 6px !important;
+    max-width: 50%;
+}
+
+.aeci-textWrapImageLeft-img {
+    padding-right: 12px !important;
+    padding-bottom: 6px !important;
+    max-width: 50%;
+}
+
+.aeci-textWrapImage-Caption{
+	padding-top: 4px !important;
+	font-size: .9em;
+	color: #ababab;
+}
+
+
+.aeci-resources-map {
+	backround-color: red;
+}

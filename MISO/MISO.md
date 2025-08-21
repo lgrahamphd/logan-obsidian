@@ -10,7 +10,7 @@ Midcontinent Independent System Operator. Part of the [[Eastern Interconnection]
 | 1       | DPC, GRE, MDU, [[Minnesota Power and Light Company\|MP]], [[Northern States Power Company\|NSP]], [[Otter Tail Power Company\|OTP]], SMP |
 | 2       | ALTE, MGE, MIUP, UPPC, WEC, WPS                                                                                                          |
 | 3       | [[Alliant West\|ALTW]], MEC, MPW                                                                                                         |
-| 4       | AMIL, CWLP, SIPC                                                                                                                         |
+| 4       | [[Ameren Illinois\|AMIL]], CWLP, SIPC                                                                                                    |
 | 5       | [[Ameren Missouri\|AMMO]], CWLD                                                                                                          |
 | 6       | BREC, CIN, HE, IPL, NIPS, SIGE                                                                                                           |
 | 7       | CONS, DECO                                                                                                                               |

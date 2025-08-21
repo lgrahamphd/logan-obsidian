@@ -4,63 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "715b7c296b4624d7",
+        "id": "1d93830ce0f3f89d",
         "type": "tabs",
         "children": [
           {
-            "id": "406ebcba3c869029",
+            "id": "e9bcfd50d48fcb3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PJM/PJM.md",
+                "file": "Process/Personal Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PJM"
+              "title": "Personal Tasks"
             }
           },
           {
-            "id": "214b1e3fee2ca6f2",
+            "id": "0924de7d43409119",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MISO/MISO.md",
+                "file": "PJM/Data Center Alley/Summer 2025 Congestion Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MISO"
+              "title": "Summer 2025 Congestion Analysis"
             }
           },
           {
-            "id": "6a282bec6e10d51a",
+            "id": "6476bc0a929ea1ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MISO/Constraint Analyses/Michigan - AD Hub Seam.md",
+                "file": "Daily Notes/Aug-2025/08-20-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Michigan - AD Hub Seam"
+              "title": "08-20-2025"
             }
           },
           {
-            "id": "c5b43c426a07ee9a",
+            "id": "f2ced58e66ecee0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PJM/AD Hub/PJM AD Hub.md",
+                "file": "Probe/PROBE Semi-Automated Run Minimal Viable Product.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PJM AD Hub"
+              "title": "PROBE Semi-Automated Run Minimal Viable Product"
             }
           }
         ],
@@ -83,7 +83,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -120,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5,
-    "collapsed": true
+    "width": 522.5
   },
   "right": {
     "id": "2cc5c28298557690",
@@ -131,39 +131,6 @@
         "id": "221c0e5520fc7ce9",
         "type": "tabs",
         "children": [
-          {
-            "id": "5ba9f3403735283b",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "MISO/Plants/LRZ 4/Baldwin.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Baldwin"
-            }
-          },
-          {
-            "id": "e2caf693cdff7fc2",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "MISO/Plants/LRZ 4/Baldwin.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Baldwin"
-            }
-          },
           {
             "id": "f2838e33482bd6a7",
             "type": "leaf",
@@ -188,9 +155,41 @@
               "icon": "lucide-list",
               "title": "Outline of Baldwin"
             }
+          },
+          {
+            "id": "180108ac459ea5ff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MISO/Constraint Analyses/December 2024 FTR Auction/Grinnel - South Grinnel 69 kV FLO Ottumwa - Montezuma 345 kV.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Grinnel - South Grinnel 69 kV FLO Ottumwa - Montezuma 345 kV"
+            }
+          },
+          {
+            "id": "a1481662398b066b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MISO/Constraint Analyses/December 2024 FTR Auction/Grinnel - South Grinnel 69 kV FLO Ottumwa - Montezuma 345 kV.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Grinnel - South Grinnel 69 kV FLO Ottumwa - Montezuma 345 kV"
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,6 +198,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -208,53 +208,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6a282bec6e10d51a",
+  "active": "cdc4b0a70e54db9e",
   "lastOpenFiles": [
-    "PJM/AD Hub/PJM AD Hub.md",
-    "MISO/Constraint Analyses/Michigan - AD Hub Seam.md",
+    "Maps/Pipelines.zip",
+    "PJM/Data Center Alley/Summer 2025 Congestion Analysis.md",
+    "Daily Notes/Aug-2025/08-20-2025.md",
+    "Probe/PROBE Semi-Automated Run Minimal Viable Product.md",
     "PJM/PJM.md",
+    "PJM/Constraints vs. Load/Zonal RT Load vs. RT Constraints.md",
+    "Daily Notes/Aug-2025/08-08-2025.md",
+    "Daily Notes/Aug-2025/08-07-2025.md",
+    "Daily Notes/Aug-2025",
+    "Daily Notes/Untitled/desktop.ini",
+    "Daily Notes/Jul-2025",
+    "PJM/Constraints vs. Load/Penelec load vs Pepco load vs shadows Yorkana only.png",
+    "PJM/Constraints vs. Load/Penelec load vs Pepco load vs shadows Yorkana Conastone.png",
+    "PJM/Constraints vs. Load/MetEd load vs BGE load vs shadows Yorkana only.png",
+    "PJM/Constraints vs. Load/MetEd load vs BGE load vs shadows Yorkana Conastone.png",
+    "PJM/Exchange Trading",
+    "PJM/Data Center Alley",
+    "PJM/Untitled.md",
+    "Daily Notes/Aug-2025/08-19-2025.md",
+    "PJM/Constraint Analyses/Marsh Run - Remington CT FLO Remington - Remington CT.md",
+    "Process/Personal Tasks.md",
+    "PJM/Constraint Analyses/Old/PLEASNTV-ASHBURN 274D A 230 KV FLO ASHBURN-BEAUMEAD 227B 230 KV, ASHBURN-GOOSECRE 227D 230 KV.md",
+    "Templates/Constraint Analysis Template.md",
+    "PJM/Constraint Analyses/Old/MALISZEW 765 KV 1 XF FLO VASSELL XF1.md",
+    "PJM/Constraint Analyses/Old/Images/Northern VA congestion.png",
+    "PJM/Constraint Analyses/Old",
+    "Templates/Lengthy Constraint Analysis Template.md",
+    "Probe/PROBE Inputs.md",
     "Probe/Zonal Factors.md",
-    "MISO/MISO.md",
-    "MISO/Constraint Analyses/Miscellaneous Constraints/AURORA_BROOKNG A FLO WHITE-SPLIT ROCK_345.md",
-    "MISO/Constraint Analyses/September, 2024/Tuesday, September 17, 2024.md",
-    "MISO/Constraint Analyses/Miscellaneous Constraints/GRANIBLAIR23_1 1 FLO APPLDWATER23_1 1.md",
-    "MISO/Constraint Analyses/Misc Constraints",
+    "Daily Notes/Aug-2025/08-18-2025.md",
+    "Daily Notes/Aug-2025/08-15-2025.md",
+    "Process/Automation To-Do List.md",
+    "Process/Constraint Clustering.md",
+    "Process/Morning Routine.md",
     "MISO/Virtuals/MISO Virtuals.md",
-    "MISO/MISO LRZs.md",
-    "Personal/Academics/Dissertation.pdf",
-    "Personal/Academics/Dissertation.pdf.crdownload",
-    "Personal/Academics",
-    "Personal/New folder",
-    "Probe/Images/MTEP_18CHARGE.png",
-    "Probe/Images/IDC_18CHARGE.png",
-    "Probe/Images/EMS_18CHARGE.png",
-    "Probe/Images",
-    "Probe",
-    "MISO/Plants/LRZ 4/Baldwin.md",
-    "Emissions Programs/Cross-State Air Pollution Rule (CSAPR).md",
-    "MISO/Plants/LRZ 4/Prairie State.md",
-    "MISO/Plants/LRZ 4/Images/Prairie State.jpg",
-    "MISO/Plants/LRZ 4/Images/Prairie State.jpg.crdownload",
-    "MISO/Plants/LRZ 4/Images/Prairie State net capacity factor.png",
-    "MISO/Plants/LRZ 4/Images/Prairie State net capacity factor.png.crdownload",
-    "MISO/Plants/LRZ 5/Labadie.md",
-    "MISO/Plants/LRZ 4/Images/baldwin-power-plant-aerial.jpg",
-    "MISO/Plants/LRZ 4/Images/baldwin-power-plant-aerial.jpg.crdownload",
-    "MISO/Plants/LRZ 5/Mexico.md",
-    "MISO/Plants/LRZ 1/Clay Boswell.md",
-    "MISO/Plants/LRZ 1/Big Stone.md",
-    "MISO/Plants/LRZ 5/Pinckneyville.md",
-    "MISO/Constraint Analyses/November 2024 FTR Auction/Prest Road - Tibbs 138 kV FLO Aster - Commodore 345 kV.md",
-    "MISO/Plants/LRZ 5/High Prairie.md",
-    "MISO/Constraint Analyses/November 2024 FTR Auction/Jeff - Woody 161 kV FLO Maywood - Zachary 345 kV.md",
-    "MISO/Constraint Analyses/November 2024 FTR Auction/Raun - Tekamah 161 kV FLO Ft. Calhoun - Raun 345 kV.md",
-    "MISO/Constraint Analyses/Miscellaneous Constraints/SWAN_WILMA11_1 1 FLO HELENSHEAS34_1 1.md",
-    "MISO/Constraint Analyses/November 2024 FTR Auction/Blair - Granite Falls 230 kV FLO Appledorn - Watertown 230 kV.md",
-    "MISO/Constraint Analyses/November 2024 FTR Auction/Tekamah - Substation 1226 161 kV FLO Ft. Calhoun - Raun 345 kV.md",
-    "MISO/Constraint Analyses/November 2024 FTR Auction/Pleasant Lake - Leeds 115 kV FLO Balta - Ramsey 230 kV.md",
-    "MISO/Plants/LRZ 5/Rush Island SSR Costs.png",
-    "MISO/Plants/LRZ 5/Images/Callaway County.png",
-    "MISO/Plants/LRZ 5/Images/Taum Sauk.png",
-    "MISO/Plants/LRZ 5/Images/Osage.png"
+    "Daily Notes/Aug-2025/08-14-2025.md",
+    "Daily Notes/Aug-2025/08-13-2025.md",
+    "MISO/Constraint Analyses/Top Congestion Reports/~$Sep-24_RT.xlsx",
+    "MISO/Constraint Analyses/Top Congestion Reports/Jul-25_RT.xlsx",
+    "Personal/Investments/Equity grant transfer FBO Logan Graham.pdf",
+    "Personal/Investments/Performance/20250430 Investor Statement 1070.pdf",
+    "Maps/MISO/MISO LRZs.png",
+    "MISO/MTEPs/MTEP Projects/Bobville 230-138 kV Station.png",
+    "MISO/MTEPs/MTEP Projects/Rebuild Speed to Jeffersonville.png",
+    "MISO/Transmission Projects/Grain Belt Express/Grain Belt Express phases.png",
+    "MISO/Constraint Analyses/February 2025 FTR Auction/Images/Wilmarth node-breaker.png"
   ]
 }

@@ -16,4 +16,11 @@
 ---
 ### Notes
 - Near Big Stone City, SD and the MN, SD border.
-- Energy Velocity's data look incorrect, as the net summer and net winter capacities are listed at 475 MW, which is higher than the nameplate capacity.
+- [Global Energy Monitor]([Big Stone Power Plant - Global Energy Monitor](https://www.gem.wiki/Big_Stone_Power_Plant)) lists the net capacity at 456 MW.
+- Coal sources include the Rawhide Mine (Peabody coal) and the Eagle Butte Mine (Black Jewel).
+
+### Topology
+- There are two 3-winding transformers at Big Stone (230/115/13.8 kV).
+
+#### Images
+![[Big Stone.png]]
