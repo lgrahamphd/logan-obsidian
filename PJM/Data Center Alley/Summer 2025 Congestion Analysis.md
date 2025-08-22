@@ -11,11 +11,11 @@
 - Which data centers have come online since September 1, 2024?
 - Which data centers are due to come online before June 1, 2026? What are their expected online dates and sizes in terms of load?
 ### Approach
-- [ ] Produce constraint history statistics for MQ24, MQ25 using Panorama API.
+- [x] Produce constraint history statistics for MQ24, MQ25 using Panorama API.
     - `constraintdb.get_binding_constraints_summary`; top constraints in each period
 	- Manually select the top ~6 relevant constraints in MQ24 and MQ25. Take the union of these constraint sets. We want 10-12 total constraints to compare in MQ24 and MQ25.
 	- `constraintdb.get_constraint_history`; binding history for each of the selected constraints
-- [ ] Get constraint flows, ratings data using Panorama API.
+- [x] Get constraint flows, ratings data using Panorama API.
     - `reflow.get_constraint_flows`: constraint flow time series
 	- `constraintdb.get_constraint_ratings`: constraint ratings time series
 - [ ] Get Dominion load data
@@ -29,7 +29,7 @@
 - [ ] Create Plotly overlaid time series plots for (1) Dominion load, (2) heat index-normalized Dominion load.
     - 2024 heat index-normalized Dominion load in blue, 2025 heat index-normalized Dominion load in red
 	- Time axis from June 1 - August 31 without stating year
-- [ ] Create Plotly scatterplot of heat index-normalized Dominion load vs. constraint flow (% of rating).
+- [ ] Create Plotly scatterplot of heat index-normalized Dominion load vs. constraint flow.
     - Map shadow price to dot size, with a default dot size when the constraint did not bind
 	- Map color to constraint
 	- Marginal violin plots
