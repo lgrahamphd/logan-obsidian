@@ -18,7 +18,7 @@
 - [x] Get constraint flows, ratings data using Panorama API.
     - `reflow.get_constraint_flows`: constraint flow time series
 	- `constraintdb.get_constraint_ratings`: constraint ratings time series
-- [ ] Get Dominion load data
+- [x] Get Dominion load data
     - YES Snowflake query
     - [ ] Organize into a Jinja template directory (as a clean-up task after the code works)
 - [x] Get Dominion weather proxy
