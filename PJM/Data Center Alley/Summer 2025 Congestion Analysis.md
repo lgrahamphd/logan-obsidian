@@ -21,18 +21,20 @@
 - [ ] Get Dominion load data
     - YES Snowflake query
     - [ ] Organize into a Jinja template directory (as a clean-up task after the code works)
-- [ ] Get Dominion weather proxy
+- [x] Get Dominion weather proxy
 	- Blend Richmond and Dulles station data
-- [ ] Compute heat index-normalized load
-    - Heat index cooling degree hours
-- [ ] Join the above so that we have one Pandas dataframe with datetime, constraint flow, constraint rating, shadow price, heat index-normalized Dominion load
-- [ ] Create Plotly overlaid time series plots for (1) Dominion load, (2) heat index-normalized Dominion load.
-    - 2024 heat index-normalized Dominion load in blue, 2025 heat index-normalized Dominion load in red
-	- Time axis from June 1 - August 31 without stating year
-- [ ] Create Plotly scatterplot of heat index-normalized Dominion load vs. constraint flow.
-    - Map shadow price to dot size, with a default dot size when the constraint did not bind
-	- Map color to constraint
+## Plots
+- [ ] YoY Dominion load, heat index
+- [ ] Heat index vs. load
+    - Map year to color
 	- Marginal violin plots
-	- Tooltips stating (1) constraint name, (2), datetime, (3) constraint flow, (4) shadow price
+	- Tooltips including datetime, Dominion load, heat index
+- [ ] Grouped/paired violin plots of constraint flow distributions
+    - Side-by-side violin plots for each constraint for which we have constraint flow data
+- [ ] Constraint flows vs. Dominion load scatterplots
+    - Not all constraints will have flow data. Use a try-except pattern.
+## Statistics
+- [ ] 
+## Notes
 - [ ] Make notes on the data centers that have come online since September 1, 2024 and those due to come online before June 1, 2026.
 	- Excel file with columns: data center name, size in terms of MW, commercial online date

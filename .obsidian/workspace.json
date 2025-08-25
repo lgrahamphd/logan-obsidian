@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Process/Personal Tasks.md",
+                "file": "PJM/Data Center Alley/Summer 2025 Congestion Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Personal Tasks"
-            }
-          },
-          {
-            "id": "f2ced58e66ecee0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probe/PROBE Semi-Automated Run Minimal Viable Product.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PROBE Semi-Automated Run Minimal Viable Product"
+              "title": "Summer 2025 Congestion Analysis"
             }
           }
         ]
@@ -92,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 522.5
+    "width": 351.5110321044922
   },
   "right": {
     "id": "2cc5c28298557690",
@@ -181,12 +167,13 @@
   },
   "active": "e9bcfd50d48fcb3d",
   "lastOpenFiles": [
+    "Process/Personal Tasks.md",
+    "Probe/PROBE Semi-Automated Run Minimal Viable Product.md",
     "Daily Notes/Aug-2025/08-21-2025.md",
     "PJM/Data Center Alley/Summer 2025 Congestion Analysis.md",
     "Daily Notes/Aug-2025/08-22-2025.md",
     "Daily Notes/Aug-2025/08-20-2025.md",
     "Maps/Pipelines.zip",
-    "Probe/PROBE Semi-Automated Run Minimal Viable Product.md",
     "PJM/PJM.md",
     "PJM/Constraints vs. Load/Zonal RT Load vs. RT Constraints.md",
     "Daily Notes/Aug-2025/08-08-2025.md",
@@ -203,7 +190,6 @@
     "PJM/Untitled.md",
     "Daily Notes/Aug-2025/08-19-2025.md",
     "PJM/Constraint Analyses/Marsh Run - Remington CT FLO Remington - Remington CT.md",
-    "Process/Personal Tasks.md",
     "PJM/Constraint Analyses/Old/PLEASNTV-ASHBURN 274D A 230 KV FLO ASHBURN-BEAUMEAD 227B 230 KV, ASHBURN-GOOSECRE 227D 230 KV.md",
     "Templates/Constraint Analysis Template.md",
     "PJM/Constraint Analyses/Old/MALISZEW 765 KV 1 XF FLO VASSELL XF1.md",
