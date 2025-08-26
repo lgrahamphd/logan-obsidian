@@ -24,8 +24,8 @@
 - [x] Get Dominion weather proxy
 	- Blend Richmond and Dulles station data
 ## Plots
-- [ ] YoY Dominion load, heat index
-- [ ] Heat index vs. load
+- [x] YoY Dominion load, heat index
+- [x] Heat index vs. load
     - Map year to color
 	- Marginal violin plots
 	- Tooltips including datetime, Dominion load, heat index
