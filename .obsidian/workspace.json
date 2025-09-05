@@ -22,35 +22,21 @@
             }
           },
           {
-            "id": "c99a0383e3db48a4",
+            "id": "e0bdef5850c6109f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Sep-2025/09-03-2025.md",
+                "file": "Daily Notes/Sep-2025/09-05-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09-03-2025"
-            }
-          },
-          {
-            "id": "86922cd5920718fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MISO/Constraint Analyses/Constraint Notes/Bunker TR1 FLO Monticello TR6.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bunker TR1 FLO Monticello TR6"
+              "title": "09-05-2025"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 529.5
+    "width": 674.5
   },
   "right": {
     "id": "2cc5c28298557690",
@@ -194,8 +180,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "86922cd5920718fd",
+  "active": "e0bdef5850c6109f",
   "lastOpenFiles": [
+    "MISO/Constraint Analyses/Top Congestion Reports/Aug-25_RT.xlsx",
+    "Templates/Constraint Analysis Template.md",
+    "MISO/Constraint Analyses/Constraint Notes/Nevada Tap - Fernald 69 kV FLO Story - Marshalltown 161 kV.md",
+    "PJM/PJM.md",
+    "Daily Notes/Sep-2025/09-05-2025.md",
+    "Daily Notes/Sep-2025/09-04-2025.md",
+    "MISO/Constraint Analyses/Constraint Notes/Scribner - Wilton 115 kV FLO Wilton - Winger 230 kV.md",
+    "MISO/Constraint Analyses/Constraint Notes/Grinnell - South Grinnell 69 kV FLO Ottumwa - Montezuma 345 kV.md",
+    "MISO/Constraint Analyses/Constraint Notes/Charlie Creek - Watford 230 kV FLO Charlie Creek - Patent 345 kV.md",
+    "MISO/Constraint Analyses/Constraint Notes/Prest Road - Tibbs 138 kV FLO Jordan - Commodore 345 kV.md",
+    "MISO/Constraint Analyses/Constraint Notes/Pleasant Lake - Leeds 115 kV FLO Balta - Ramsey 230 kV.md",
+    "MISO/Constraint Analyses/Constraint Notes/Forman (OTP) - Forman (WAUE) 115 kV FLO Wahpeton Subgraph.md",
+    "Daily Notes/Sep-2025/09-03-2025.md",
+    "MISO/Constraint Analyses/Constraint Notes/Oahe - Sully Buttes 230 kV FLO Leland Olds - Chapelle Creek 345 kV.md",
+    "MISO/Constraint Analyses/Constraint Notes/Raun - Tekamah 161 kV FLO Ft. Calhoun - Raun 345 kV.md",
+    "MISO/Constraint Analyses/Constraint Notes/Tekamah - Substation 1226 161 kV FLO Ft. Calhoun - Raun 345 kV.md",
+    "MISO/Constraint Analyses/Constraint Notes/Rising - Bondville 138 kV FLO Sidney - Rising 345 kV.md",
+    "MISO/Plants/LRZ 1/Tatanka Wind Power.md",
+    "MISO/Constraint Analyses/Constraint Notes/Bunker TR1 FLO Monticello TR6.md",
     "MISO/Constraint Analyses/Constraint Notes/Big Stone - Browns Valley 230 kV FLO Ellendale - Twin Brooks 345 kV.md",
     "MISO/Constraint Analyses/Constraint Notes/Batesville - Tallahatchie 161 kV FLO Choctaw - Clay 500 kV.md",
     "MISO/Constraint Analyses/Constraint Notes/Bass Creek - Norwegian Creek 138 kV FLO Rockdale - Kittyhawk 345 kV.md",
@@ -203,25 +208,6 @@
     "MISO/Constraint Analyses/Old Constraint Notes/GRANIBLAIR23_1 1 FLO APPLDWATER23_1 1.md",
     "MISO/Constraint Analyses/Old Constraint Notes/WITHYLKJ WITHYTWINI13_1 1.md",
     "MISO/Constraint Analyses/Old Constraint Notes/SWAN_WILMA11_1 1 FLO HELENSHEAS34_1 1.md",
-    "MISO/Constraint Analyses/Old Constraint Notes/SWAN_WILMA11_1 1 FLO HAWKNLYONC34_1 1.md",
-    "MISO/Constraint Analyses/Old Constraint Notes/MONROE4 MONRONSTAR12_1 1.md",
-    "MISO/Constraint Analyses/Old Constraint Notes/PLESNLEEDS11_1 1 FLO BALTARAMSE23_1 1.md",
-    "MISO/Constraint Analyses/Old Constraint Notes/MAPLE MAPLE08CHR13_1 1.md",
-    "MISO/Constraint Analyses/Old Constraint Notes/HINSHAW 34540 A.md",
-    "MISO/Constraint Analyses/Constraint Notes/Chicago Avenue - Praxair 138 kV FLO Dumont - Wilton 765 kV.md",
-    "MISO/Constraint Analyses/Constraint Notes/Cayuga - Hillsdale North 230 kV FLO Sugar Creek - Dresser 345 kV.md",
-    "MISO/Constraint Analyses/Constraint Notes/Cabot - Ward 115 kV FLO Independence-Holbot 500 kV.md",
-    "MISO/Constraint Analyses/Constraint Notes/Bunsonville - Eugene 345 kV FLO Dumont - Wilson Center 765 kV.md",
-    "MISO/Constraint Analyses/Constraint Notes/Bunker TR1 FLO Monticello TR6.md",
-    "MISO/Constraint Analyses/Constraint Notes/Bogalusa - Barkers 230 kV FLO McKnight - Franklin 500 kV.md",
-    "MISO/Constraint Analyses/Constraint Notes/Blair - Granite Falls 230 kV FLO Appledorn - Watertown 230 kV.md",
-    "MISO/Constraint Analyses/Constraint Notes/Alma - Wabasha Co. 161 kV FLO Briggs Rd. - North Rochester 345 kV.md",
-    "Templates/Constraint Analysis Template.md",
-    "MISO/Constraint Analyses/Old Constraint Notes/Labadie - Gray Summit Ckt. 2 345 kV FLO Labadie - Gray Summit Ckt. 1 345 kV.md",
-    "Daily Notes/Sep-2025/09-03-2025.md",
-    "MISO/Constraint Analyses/Constraint Notes/Withey Lake - Twining 138 kV FLO Base.md",
-    "MISO/Constraint Analyses/Constraint Notes/Wilmarth TR 9-2 FLO Crandall - Wilmarth 345 kV.md",
-    "MISO/Constraint Analyses/Constraint Notes/Warren - Clare 138 kV FLO Tittabawassee - Gallagher - Livington 345 kV.md",
     "MISO/Constraint Analyses/Constraint Notes",
     "MISO/Constraint Analyses/Top Congestion Reports/~$Sep-24_RT.tmp",
     "MISO/Constraint Analyses/Top Congestion Reports/~$Jun-25_RT.tmp",

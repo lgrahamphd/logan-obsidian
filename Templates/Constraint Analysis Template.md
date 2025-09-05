@@ -1,5 +1,10 @@
 Last updated: YYYY-MM-DD
 #### Summary Characterization
+
+---
+#### Necessary Conditions for Binding Events
+
+---
 ### Basic Facts
 **Monitored Element:**
 - Common Name:
